@@ -1,0 +1,16 @@
+# Site settings
+title: Blog of Daniil Filippov
+description: Thoughts on programming
+baseurl: ""
+url: ""
+author: Daniil Filippov
+github_username: flipp5b
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
